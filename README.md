@@ -22,10 +22,5 @@
 ### ✅ Problem-4: Count Multiples
 - Given a list of numbers, it returns a dictionary where each key (1–9) maps to the **count of numbers divisible** by it.
 
-## 📂 File Structure
-Problem-1.py --> Calculator using class
-Problem-2.py --> Odd number series
-Problem-3.py --> Conditional series based on odd input
-Problem-4.py --> Dictionary count of multiples
 
 
