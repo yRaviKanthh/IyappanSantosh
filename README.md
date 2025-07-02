@@ -28,32 +28,4 @@ Problem-2.py --> Odd number series
 Problem-3.py --> Conditional series based on odd input
 Problem-4.py --> Dictionary count of multiples
 
-perl
-Copy
-Edit
 
-## 🔧 How to Run
-```bash
-python Problem-1.py
-python Problem-2.py
-python Problem-3.py
-python Problem-4.py
-🔗 Repository Link
-Replace this line with your GitHub repository URL before submitting.
-
-yaml
-Copy
-Edit
-
----
-
-Let me know once your code is ready and I’ll help you polish it if needed!
-
-
-
-
-
-
-
-
-Ask ChatGPT
